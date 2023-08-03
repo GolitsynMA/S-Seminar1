@@ -2,4 +2,11 @@
 // 5 -> 2, 4
 // 8 -> 2, 4, 6, 8
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Введите число ");
+int firstNumber = Convert.ToInt32(Console.ReadLine());
+int secondNumber = 0 + 2;
+i = secondNumber;
+while (i < firstNumber + 2){
+    Console.Write(i)
+    i++;
+}
