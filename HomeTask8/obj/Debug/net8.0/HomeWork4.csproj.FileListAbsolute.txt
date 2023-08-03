@@ -26,3 +26,4 @@
 /Users/mishagolitsyn/Desktop/S#Seminar1/HomeTask8/obj/Debug/net8.0/HomeWork4.pdb
 /Users/mishagolitsyn/Desktop/S#Seminar1/HomeTask8/obj/Debug/net8.0/HomeWork4.genruntimeconfig.cache
 /Users/mishagolitsyn/Desktop/S#Seminar1/HomeTask8/obj/Debug/net8.0/ref/HomeWork4.dll
+/Users/mishagolitsyn/Desktop/S#Seminar1/HomeTask8/obj/Debug/net8.0/HomeWork4.sourcelink.json
