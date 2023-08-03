@@ -12,3 +12,4 @@
 /Users/mishagolitsyn/Desktop/S#Seminar1/HomeTask2/obj/Debug/net8.0/HomeTask2.pdb
 /Users/mishagolitsyn/Desktop/S#Seminar1/HomeTask2/obj/Debug/net8.0/HomeTask2.genruntimeconfig.cache
 /Users/mishagolitsyn/Desktop/S#Seminar1/HomeTask2/obj/Debug/net8.0/ref/HomeTask2.dll
+/Users/mishagolitsyn/Desktop/S#Seminar1/HomeTask2/obj/Debug/net8.0/HomeTask2.sourcelink.json
